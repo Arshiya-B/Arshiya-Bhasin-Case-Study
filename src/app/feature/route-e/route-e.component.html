@@ -1,0 +1,18 @@
+<div class="container">
+    <table class="table table-striped">
+        <thead  class="thead-light" style="
+        background-color: lightgray;">
+            <th *ngFor="let key of keys">
+                <p (click)="sortUsing(key)">{{key}}</p>
+            </th>
+        </thead>
+        <tbody *ngFor="let value of sortedStudentMarks">
+            <td>{{value.Name}}</td>
+            <td style="background-color: ghostwhite;">{{value.Class}}</td>
+            <td>{{value.Section}}</td>
+            <td style="background-color: ghostwhite;">{{value.Math}}</td>
+            <td>{{value.Science}}</td>
+            <td style="background-color: ghostwhite;">{{value.English}}</td>
+        </tbody>
+    </table>
+</div>

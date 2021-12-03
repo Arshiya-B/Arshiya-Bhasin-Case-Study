@@ -1,0 +1,18 @@
+.outer {
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.inner {
+    background-color: lightblue;
+    width: 50%;
+    margin: 10px;
+    text-align:center;
+}
+a{
+    color: darkslateblue;
+    font-size: 18px;
+    font-family: helvetica;
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Monica",
+        "Class": 12,
+        "Section": "A",
+        "Math": 26,
+        "Science": 54,
+        "English": 68
+    },
+    {
+        "Name": "Ross",
+        "Class": 7,
+        "Section": "C",
+        "Math": 27,
+        "Science": 55,
+        "English": 67
+    },
+    {
+        "Name": "Phoebe",
+        "Class": 8,
+        "Section": "B",
+        "Math": 31,
+        "Science": 59,
+        "English": 61
+    },
+    {
+        "Name": "Racheal",
+        "Class": 3,
+        "Section": "E",
+        "Math": 21,
+        "Science": 51,
+        "English": 65
+    },
+    {
+        "Name": "Joey",
+        "Class": 6,
+        "Section": "D",
+        "Math": 24,
+        "Science": 49,
+        "English": 71
+    },
+    {
+        "Name": "Chandler",
+        "Class": 4,
+        "Section": "F",
+        "Math": 32,
+        "Science": 62,
+        "English": 50
+    }
+]
